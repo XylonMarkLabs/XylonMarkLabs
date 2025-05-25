@@ -1,7 +1,7 @@
-<!-- COMPANY LOGO -->
+<!-- COMPANY LOGO
 <p align="center">
   <img src="https://yourcompany.com/logo.png" width="120" alt="XylonMark Labs Logo"/>
-</p>
+</p> -->
 
 <h1 align="center" style="color:#9f0712;">🚀 Welcome to XylonMark Labs</h1>
 
